@@ -1,0 +1,33 @@
+.expense-display-cart-css{
+    display: flex;
+    justify-content: space-between;
+}
+.expense-display-cart-date-css{
+    border:2px solid black;
+    height:110px;
+    width: 100px;
+    border-radius: 10px;
+}
+.expense-display-cart-date-p-tag-css{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+}
+.expense-display-cart-title-css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110px;
+}
+.expense-display-cart-amount-div-css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110px;    
+}
+.expense-display-cart-title-css{
+    font-weight: 700;
+}
+.expense-display-cart-amount-css{
+    font-weight: 700;
+}

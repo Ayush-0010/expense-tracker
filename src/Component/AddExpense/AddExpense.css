@@ -1,0 +1,13 @@
+.add-expense-button-css{
+    margin:10%;
+    padding-top: 10px;
+}
+.add-expense-field{
+    margin:2%;
+}
+.add-expense-change-field-p-tag-css{
+    cursor: pointer;
+}
+.add-expense-change-field-p-tag-css:hover{
+    color:blue;
+}
